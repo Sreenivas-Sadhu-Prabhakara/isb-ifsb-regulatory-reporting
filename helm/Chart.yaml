@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-ifsb-regulatory-reporting
+description: "BIAN Service Domain: IFSB Regulatory Reporting (Process pattern, Takaful and Shared Operations)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - process
+annotations:
+  isb/business-area: "Takaful and Shared Operations"
+  isb/business-domain: "Shared Operations"
+  isb/asset-type: "IFSB Regulatory Report"
+  isb/control-record: "IFSB Regulatory Report Procedure"
